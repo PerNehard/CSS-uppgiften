@@ -1,0 +1,13 @@
+.intro {
+    text-align: center;
+}
+
+.main, .sidebar {
+    display: inline-block;
+    padding: 20px;
+}
+
+.main {
+    width: 66%;
+    float: left;
+}
